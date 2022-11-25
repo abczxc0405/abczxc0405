@@ -17,5 +17,7 @@
   <h3>✉️ Contact Me ✉️</h3>
 </div>
 <div align=center>
-   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="mailto:abczxc0405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:abczxc0405@gmail.com"/>
+  </a>
 </div>
