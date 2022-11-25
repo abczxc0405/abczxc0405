@@ -17,7 +17,7 @@
 </div>
 
 <div align=center>
-  <h3>✉️ Contact Me ✉️</h3>
+  <h3>✉️ CONTACT ME ✉️</h3>
 </div>
 <div align=center>
   <a href="mailto:abczxc0405@gmail.com">
