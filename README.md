@@ -15,7 +15,7 @@
   <a href="https://github.com/abczxc0405/study">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   </a>
-  <a href="https://github.com/abczxc0405/study">
+  <a href="https://github.com/abczxc0405/study/tree/main/c">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   </a>
   <a href="https://github.com/abczxc0405/study">
